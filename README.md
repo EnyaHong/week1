@@ -8,5 +8,6 @@
 
 # Welcome to ENTR-451
 
-This is my very first code in week 1 -- maybe?
+This is my very first code in week 1 -- maybe? -- YES!!
+
 
